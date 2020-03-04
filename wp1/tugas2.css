@@ -1,0 +1,16 @@
+body{
+	background: url(bg.jpg);
+	/*color: #fff;*/
+	background-size: 100%;
+}
+.animasi {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    animation-name: animasi;
+    animation-duration: 7s;
+}
+@keyframes animasi {
+    from {background-color: blue;width: 100px;height: 50px;}
+    to {background-color: green;width: 550px;height: 50px;}
+}
