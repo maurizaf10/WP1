@@ -1,0 +1,29 @@
+ngapain aja ?
+1. cari konten buat tulisan buat halaman depan
+2. cari free template boostrap admin, user, login, register
+3. ngoding php nya agar semua fitur bisa jalan
+4. cari data mobil dan maks penumpang buat di database aja
+
+referensi :
+https://www.trac.astra.co.id/
+http://www.autonetrentcar.com/
+https://www.youtube.com/watch?v=QuIC--NvGTw
+
+==KONTEN==
+
+AUTOCAR
+Temukan dan Jelajahi Destinasi Baru Bersama 
+
+OUR SERVICE :
+- profile : Kami menyediakan armada mobil yang prima untuk kebutuhan perjalanan anda
+- layanan : Jasa transportasi Rental Mobil Tegal yang berpengalaman sejak 1999
+- alamat  : Jl. Santika Raya, Kademangan, Pengabean, Kec. Dukuhturi, Tegal, Jawa Tengah 52181
+
+About us :
+Sejak berdiri tahun 1999, AUTOCAR berusaha mengembangkan produk dan layanan. Dengan pengalaman lebih dari 15 tahun, kami sangat mengerti kebutuhan anda dalam menyewa kendaraan.  Kami memahami bahwa kebutuhan masyarakat kian berkembang. Mobilitas yang semakin tinggi menuntut efisiensi waktu. Perusahaan membutuhkan solusi transportasi untuk mendukung kegiatan bisnis, begitupun masyarakat umum perlu transportasi yang aman dan nyaman dalam setiap aktivitas. AUTOCAR bisa menjadi solusi praktis bagi perusahaan maupun individu. Kepuasan pelanggan adalah misi utama kami karena AUTOCAR ingin menjadi besar bersama Anda.
+
+==ADMIN==
+menu admin : Dashboard, Data user, Data Mobil, Kategori, Log Aktivitas
+
+==USER==
+menu admin : Dashboard, Data Mobil, Riwayat, Edit Profile
